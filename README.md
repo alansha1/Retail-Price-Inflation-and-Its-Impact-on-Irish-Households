@@ -82,7 +82,7 @@ A feedforward neural network trained on the full feature set. Learns deep patter
 > ARIMA outperforms ML models on this dataset because CPI data follows strong seasonal and trend patterns — exactly what ARIMA is designed to exploit.
 
 ---
-
+![Architecture Diagram](arch_retail.png)
 ## 🔍 Key Findings
 
 **1. Food inflation peaked at +16.2% YoY in late 2022**
